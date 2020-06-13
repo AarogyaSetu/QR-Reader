@@ -1,5 +1,5 @@
-# As-Scan
-Aarogya Setu QR code Scanner
+# QR Code Reader
+Aarogya Setu QR code Reader
 
 A simple demo application to read Aarogya Setu QR code. This is to verify the status of Aarogya Setu user.
 
