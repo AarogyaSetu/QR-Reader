@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#6200EE</color>
+  <color name="colorPrimaryDark">#3700B3</color>
+  <color name="colorAccent">#03DAC5</color>
+  <color name="white">#ffffffff</color>
+
+  <color name="chat_title_orange">#DB7D00</color>
+  <color name="chat_title_red">#EB2026</color>
+
+  <color name="chat_close_dark">#44000000</color>
+
+  <color name="black">#393840</color>
+
+  <color name="chat_bubble_green">#3AA84C</color>
+  <color name="chat_bubble_yellow">#E8C031</color>
+  <color name="chat_bubble_orange">#F48242</color>
+  <color name="chat_bubble_red">#C84D4D</color>FDF4E8
+  <color name="chat_bubble_light_orange">#FDF4E8</color>
+
+</resources>
